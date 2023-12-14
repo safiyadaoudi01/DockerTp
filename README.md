@@ -1,4 +1,17 @@
 # DockerTp
+Docker descktop Containers:
+
+
+![dockerdesktop](https://github.com/safiyadaoudi01/DockerTp/assets/120654774/ec2b3997-4213-454d-9a8b-33ac1d93730c)
+
+Docker descktop Images:
+
+
+![dockerRun](https://github.com/safiyadaoudi01/DockerTp/assets/120654774/9a4b7766-5fe3-49b6-99ac-8c360c877e68)
+
+
+
+
 Category management:
 
 
